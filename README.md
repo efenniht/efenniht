@@ -16,7 +16,7 @@ A curious **software engineer** interested in safe and high-performance systems 
     *M.S. in Computer Science*  
     Mar. '19 - Feb. '21
 
-    Researched type-based approach to secure memory safety of legacy C kernels using Rust.  
+    Researched type-guided refactoring to secure memory safety of legacy C kernels using Rust.  
 
     Worked at [Programming Languages Research Group](http://plrg.kaist.ac.kr) and  
     Co-worked at [Concurrency and Parallelism Laboratory](http://cp.kaist.ac.kr).
