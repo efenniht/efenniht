@@ -18,7 +18,8 @@ A curious **software engineer** interested in safe and high-performance systems 
 
     Researched type-based approach to secure memory safety of legacy C kernels using Rust.  
 
-    [Programming Languages Research Group](http://plrg.kaist.ac.kr)
+    Worked at [Programming Languages Research Group](http://plrg.kaist.ac.kr) and  
+    Co-worked at [Concurrency and Parallelism Laboratory](http://cp.kaist.ac.kr).
 
 - **KAIST**  
     *B.S. in Mathematics and Computer Science* (double degree)  
