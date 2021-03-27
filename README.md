@@ -1,6 +1,9 @@
 A curious **software engineer** interested in safe and high-performance systems programming.
 
 ## Careers
+- [**FuriosaAI**](https://furiosa.ai)  
+    *Software Engineer*  
+    Feb. '21 -
 
 - [**FuriosaAI**](http://furiosa.ai)  
     *Software Engineering Intern*  
