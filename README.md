@@ -4,6 +4,12 @@ A curious **software engineer** interested in safe and high-performance systems 
 - [**FuriosaAI**](https://furiosa.ai)  
     *Software Engineer*  
     Feb. '21 -
+    
+    - Developed graph transformations to support various operators on accelerators.
+    - Developed and optimized scheduling and allocating algorithms for deep-learning model compiler.
+    - Developed visualization tools for artifacts produced by the compiler.
+
+    Used skills: Rust, Python, Typescript, React, C++
 
 - [**FuriosaAI**](http://furiosa.ai)  
     *Software Engineering Intern*  
