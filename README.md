@@ -1,5 +1,4 @@
-
-Software engineer, interested in developing scalable, performant, and safe abstraction of cutting-edge technologies.Software engineer, interested in developing scalable, performant, and safe abstraction of cutting-edge technologies.
+A software engineer interested in developing scalable, performant, and safe abstraction of cutting-edge technologies.
 
 
 ## Careers
