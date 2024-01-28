@@ -1,15 +1,19 @@
-A curious **software engineer** interested in safe and high-performance systems programming.
+
+Software engineer, interested in developing scalable, performant, and safe abstraction of cutting-edge technologies.Software engineer, interested in developing scalable, performant, and safe abstraction of cutting-edge technologies.
+
 
 ## Careers
 - [**FuriosaAI**](https://furiosa.ai)  
     *Software Engineer*  
     Feb. '21 -
-    
-    - Developed graph transformations to support various operators on accelerators.
-    - Developed and optimized scheduling and allocating algorithms for deep-learning model compiler.
-    - Developed visualization tools for artifacts produced by the compiler.
 
-    Used skills: Rust, Python, Typescript, React, C++
+    - Leads Optimization Working Group in Compiler team.
+       - Designs and implements global optimization passes of DNN compiler.
+       - Analyzes and scales compiler performance for large models.
+    - Elaborates abstractions of HW primitives for compiler backend.
+    - Implements and optimizes simulator of DNN accelerator.
+
+    Used skills: Rust, C++, Python
 
 - [**FuriosaAI**](http://furiosa.ai)  
     *Software Engineering Intern*  
