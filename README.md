@@ -22,6 +22,10 @@ A software engineer interested in developing scalable, performant, and safe abst
 
     Used skills: Rust, Python
 
+## Publications
+ - Jaemin Hong, Sunghwan Shim, **Sanguk Park**, Tae Woo Kim, Jungwoo Kim, Junsoo Lee, Sukyoung Ryu, and Jeehoon Kang, "[Taming Shared Mutable States of Operating Systems in Rust][scic02024]," Science of Computer Programming (SCICO), Volume 238, December 2024.
+ - H. Kim and Y. Choi and J. Park and B. Bae and H. Jeong and S. Lee and J. Yeon and M. Kim and C. Park and B. Gu and C. Lee and J. Bae and S. Bae and Y. Cha and W. Choe and J. Choi and J. Ha and H. Han and N. Hwang and S. Hwang and K. Jang and H. Je and H. Jeon and J. Jeon and H. Jeong and Y. Jung and D. Kang and H. Kim and M. Kim and M. Kim and S. Kim and S. Kim and W. Kim and Y. Kim and Y. Kim and Y. Ku and J. Lee and J. Lee and K. Lee and S. Lee and M. Noh and H. Oh and G. Park and **S. Park** and J. Seo and J. Seong and J. Paik and N. P. Lopes and S. Yoo, "[TCP: A Tensor Contraction Processor for AI Workloads][isca2024]," in 2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA), Buenos Aires, Argentina, 2024 pp. 890-902.
+
 ## Educations
 
 - **KAIST**  
@@ -38,8 +42,5 @@ A software engineer interested in developing scalable, performant, and safe abst
     Mar. '14 - Feb. '19  
     Cumulative GPA: 3.93/4.3
 
-## Skills
-
-- Programming Languages: **Rust**, **Python**, C, JavaScript, Haskell, ...
-- Tools: git, docker, tmux, ssh, vs code, vi (using nvim), linux (using manjaro on laptop), latex, make, ...
- 
+[scic02024]: https://doi.org/10.1016/j.scico.2024.103152
+[isca2024]: https://doi.ieeecomputersociety.org/10.1109/ISCA59077.2024.00069
